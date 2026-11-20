@@ -30,15 +30,6 @@ I enjoy taking products from idea to production  designing architectures, develo
 
 **Tools:** Git, Linux, Postman
 
-### Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Battle Kard | Turn-based multiplayer card game | Next.js, Node.js, PostgreSQL, Redis |
-| Expenso | Personal expense tracking application | Next.js, Prisma, PostgreSQL |
-| Paperight.ai | AI-powered academic document analysis | Python, FastAPI, Next.js |
-| Kafka Order System | Event-driven backend system | TypeScript, Kafka, PostgreSQL, Docker |
-
 ### Experience
 
 **Full-Stack Developer / Founding Engineer at Idolrun Entertainment**
@@ -53,6 +44,16 @@ I enjoy taking products from idea to production  designing architectures, develo
 - Developed backend services using Python and FastAPI.
 - Worked with PostgreSQL and Next.js.
 - Built document-processing and AI-powered application features.
+
+### Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| Battle Kard | Turn-based multiplayer card game | Next.js, Node.js, PostgreSQL, Redis |
+| Expenso | Personal expense tracking application | Next.js, Prisma, PostgreSQL |
+| Paperight.ai | AI-powered academic document analysis | Python, FastAPI, Next.js |
+| Kafka Order System | Event-driven backend system | TypeScript, Kafka, PostgreSQL, Docker |
+
 
 ### Currently Exploring
 
